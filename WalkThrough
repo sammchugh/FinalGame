@@ -1,0 +1,34 @@
+Final Game Walk Through
+
+Haunted House Escape Game - you will need to preform a ritual to be able to escape
+Here is the most optimal game:
+input - explanation
+
+i - at any point to check inventory
+look "item" - get description of item
+talk butler - talk to the butler NPC to know more about the house
+e - go to kitchen
+take key - get key to unlock study
+w - back to living room
+insert key - unlock study
+w - enter study
+take candle - first item needed to escape
+e - back to living room
+u - go to stairs
+take cipher - cipher reveals clue to escape, second item needed to escape
+crack cipher - get the clue
+n - enter the nursery
+talk child - talk to the child NPC
+take toy - third item for ritual to escape
+s - back to stairs
+d - down to living room
+e - kitchen
+d - basement
+take newspaper - add newspaper to inventory
+read newspaper - find out how to escape
+light candle - light candle to get fire for ritual
+escape - if you meet all the conditions the south exit of the living room to freedom is unlocked.
+u - back to kitchen
+w - living room
+s - you have now reached freedom
+x - exit game
